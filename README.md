@@ -1,1 +1,2 @@
-https://colab.research.google.com/drive/1QWC8JJR9CWwzJ2uc5miW8xPLv9H67NrE
+Untuk training data gunakan link berikut
+https://colab.research.google.com/drive/15mcUTRUrUlzay-ebm2fdAnXvtf1-L1AC?usp=sharing
